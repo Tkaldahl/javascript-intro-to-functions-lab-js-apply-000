@@ -15,12 +15,12 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string = 'asdf') {
-    return 'I can\'t hear you!'
-  }
-  
   if ('HELLO') {
     return 'YES INDEED!'
+  }
+  
+  if ('hello') {
+    return 'I can\'t hear you!'
   }
   
   if ('I love you, Grandma.'){
