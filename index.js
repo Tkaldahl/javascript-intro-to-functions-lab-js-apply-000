@@ -19,11 +19,11 @@ function sayHiToGrandma(string) {
     return 'YES INDEED!'
   }
   
-  if ('hello') {
+  else if ('hello') {
     return 'I can\'t hear you!'
   }
   
-  if ('I love you, Grandma.'){
+  else if ('I love you, Grandma.'){
     return 'I love you, too.'
   }
 }
